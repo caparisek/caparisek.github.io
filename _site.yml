@@ -1,0 +1,32 @@
+output_dir: "."
+ 
+navbar:
+    title: "Christine A. Parisek"
+    right:
+      - text: "Home"     
+        href: index.html # html automatically created when you knit
+      - text: "About"
+        href: about.html
+      - text: "Research"
+        href: research.html # create .rmd with mirrored names, eg "about.rmd"
+      - text: "Publications"
+        href: publications.html
+      - text: "Blog"
+        href: sciencewriting.html
+      - text: "Illustration"
+        href: illustration.html
+
+output: 
+  html_document:
+    theme: flatly
+    highlight: kate
+    include:
+      after_body: footer.html
+
+ 
+
+url: christineparisek@github.io 
+twitter_username: caparisek
+github_userbame:  caparisek
+
+
