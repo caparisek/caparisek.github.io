@@ -17,6 +17,8 @@ navbar:
         href: sciencewriting.html
       - text: "Illustration"
         href: illustration.html
+      - text: "Opportunities"
+        href: opportunities.html
 
 output: 
   html_document:
