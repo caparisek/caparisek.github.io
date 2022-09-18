@@ -1,3 +1,3 @@
-[caparisek.github.io](caparisek.github.io)
+Visit caparisek's website at: caparisek.github.io
 
 
