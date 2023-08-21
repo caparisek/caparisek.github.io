@@ -22,7 +22,7 @@ navbar:
 
 output: 
   html_document:
-    theme: flatly
+    theme: paper
     highlight: kate
     include:
       after_body: footer.html
