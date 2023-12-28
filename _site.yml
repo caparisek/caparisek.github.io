@@ -26,7 +26,7 @@ output:
     highlight: kate
     include:
       after_body: footer.html
-      in_header: analytics.html #convert rmd to html by renaming file + build website.
+      in_header: analytics.html
 
  
 
